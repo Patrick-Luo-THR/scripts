@@ -1,8 +1,8 @@
-#ECR Tools
+# ECR Tools
 
 Scripts is a repo that contains a few tools to push new images. It 
 
-#How to setup
+# How to setup
 
 1. Make sure your credential is up to date
 
@@ -10,7 +10,7 @@ Scripts is a repo that contains a few tools to push new images. It
 
 Remember to change the image id to the image you are pushing.
 
-#How to use
+# How to use
 
 After updating, use terminal go to the main folder and use the following commands:
 
