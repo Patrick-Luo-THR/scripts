@@ -31,6 +31,11 @@ make create
 ```
 4. push the image
 
-''''bash
+```bash
 make push
-''''
+```
+Optional: if the repo isn't created properly, you can use delete script to remove it.
+
+```bash
+make delete
+```
