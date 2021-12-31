@@ -1,6 +1,6 @@
 # ECR Tools
 
-Scripts is a repo that contains a few tools to push new images. It 
+Scripts is a repo that contains a few tools to push new images.
 
 # How to setup
 
