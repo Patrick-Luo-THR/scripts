@@ -16,19 +16,19 @@ After updating, use terminal go to the main folder and use the following command
 
 1. login your aws on your docker
 
-''''bash
+```bash
 make login 
-''''
+```
 
 2.  tag your image on your docker
-''''bash
+```bash
 make tag
-''''
+```
 3. create a new repor with infomation from .env
 
-''''bash
+```bash
 make create
-''''
+```
 4. push the image
 
 ''''bash
