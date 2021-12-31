@@ -1,17 +1,17 @@
 hello:
-	sudo bash ./main.sh
+	bash ./main.sh
 
 push:
-	sudo bash ./push.sh
+	bash ./push.sh
 
 login:
-	sudo bash ./login.sh
+	bash ./login.sh
 
 delete:
-	sudo bash ./delete_repo.sh
+	bash ./delete_repo.sh
 
 create:
-	sudo bash ./create_repo.sh
+	bash ./create_repo.sh
 
 tag:
-	sudo bash ./tag.sh
+	bash ./tag.sh
